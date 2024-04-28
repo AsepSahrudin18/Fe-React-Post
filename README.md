@@ -1,3 +1,5 @@
+# Untuk seluruh penjelasan project ada dibawah termasuk penjelasan design UI dll.
+
 # Design UI (User Interface in Project):
 
 ### - Home: Desktop Screen
