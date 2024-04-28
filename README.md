@@ -1,7 +1,28 @@
 # Design UI (User Interface in Project):
 
-- Home Screen Desktop
-  ![alt text](home-desktop.png)
+### - Home: Desktop Screen
+
+![alt text](home-desktop.png)
+
+### - Home: Mobile Screen
+
+![alt text](home-mobile.png)
+
+### - All Post: Desktop Screen
+
+![alt text](allpost-desktop.png)
+
+### - All Post: Mobile Screen
+
+![alt text](allpost-mobile.png)
+
+### - Add New: Desktop Screen
+
+![alt text](addnew-desktop.png)
+
+### - Add New: Mobile Screen
+
+![alt text](addnew-mobile.png)
 
 # Getting Started with Create React App
 
