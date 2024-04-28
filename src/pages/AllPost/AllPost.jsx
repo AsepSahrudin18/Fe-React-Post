@@ -37,4 +37,5 @@ function AllPost({tabCategoryTitle}) {
      );
 }
 
+
 export default AllPost;

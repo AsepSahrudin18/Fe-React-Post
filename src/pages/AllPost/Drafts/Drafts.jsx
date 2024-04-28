@@ -12,14 +12,17 @@ function Drafts() {
             <StyledResponsive>
                 <StyledTableItem>
                     {/* Table Header Title */}
+                    <thead>
                     <StyledTr>
                         <StyledTh>No</StyledTh>
                         <StyledTh>Title</StyledTh>
                         <StyledTh>Category</StyledTh>
                         <StyledTh>Action</StyledTh>
                     </StyledTr>
-
+                    </thead>
+                    
                     {/* Table Data */}
+                    <tbody>
                     <StyledTr>
                         <StyledTd>1</StyledTd>
                         <StyledTd>Pemerataan Bisnis Diindonesia</StyledTd>
@@ -31,6 +34,7 @@ function Drafts() {
                             </StyledActionWrapper>
                         </StyledTd>
                     </StyledTr>
+                    </tbody>
                 </StyledTableItem>
             </StyledResponsive>
         </>
@@ -38,3 +42,4 @@ function Drafts() {
 }
 
 export default Drafts;
+

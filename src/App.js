@@ -6,11 +6,11 @@ import {
 import Home from "./pages/Home/Home";
 import AllPost from "./pages/AllPost/AllPost";
 import AddNew from "./pages/AddNew/AddNew";
-import About from "./pages/About/About";
+// import About from "./pages/About/About";
 import Trashed from "./pages/AllPost/Trashed/Trashed";
 import Published from "./pages/AllPost/Published/Published";
 import Drafts from "./pages/AllPost/Drafts/Drafts";
-import Hero from "./components/Globals/Hero/Hero";
+// import Hero from "./components/Globals/Hero/Hero";
 import EditPost from "./pages/AllPost/Edit";
 
 function App() {
@@ -66,3 +66,4 @@ function App() {
 }
 
 export default App;
+
