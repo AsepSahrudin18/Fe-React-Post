@@ -1,6 +1,12 @@
+# Design UI (User Interface in Project):
+
+- Home Screen Desktop
+  ![alt text](home-desktop.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+S
 
 ## Available Scripts
 
